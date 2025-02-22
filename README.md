@@ -1,6 +1,6 @@
 <h2 align="center" style="font-family: 'Times New Roman';">👋 Hello, I'm Shubham Yadav!</h2>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif;">🚀 Software Engineer | Backend Developer | Cloud Enthusiast</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">🚀 Software Engineer | Full Stack Developer | Cloud Enthusiast</h2>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
