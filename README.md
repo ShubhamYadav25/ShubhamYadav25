@@ -2,20 +2,25 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🚀 Software Engineer | Backend Developer | Cloud Enthusiast</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex: 1; padding-right: 20px;">
-        <p>I am passionate about designing <strong>scalable systems, cloud computing, and distributed applications</strong>. I love coding, solving real-world problems, and contributing to open source.</p>
-        <ul>
-            <li>💼 <strong>Currently working at Impledge Technologies</strong></li>
-            <li>🎓 <strong>B.Tech in Computer Science & Engineering</strong></li>
-            <li>💡 <strong>Exploring Microservices, System Design, and Kubernetes</strong></li>
-            <li>✨ <strong>Always learning and building new things!</strong></li>
-        </ul>
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding GIF">
-    </div>
-</div>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top;">
+      I am passionate about designing **scalable systems, cloud computing, and distributed applications**.  
+      I love coding, solving real-world problems, and contributing to open source.
+      <ul>
+        <li>💼 **Currently working at Impledge Technologies**</li>
+        <li>🎓 **B.Tech in Computer Science & Engineering**</li>
+        <li>💡 **Exploring Microservices, System Design, and Kubernetes**</li>
+        <li>✨ **Always learning and building new things!**</li>
+      </ul>
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
