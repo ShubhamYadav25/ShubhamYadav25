@@ -5,7 +5,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: top;">
-      I am passionate about designing **scalable systems, cloud computing, and distributed applications**.  
+      I am passionate about designing scalable systems, cloud computing, and distributed applications.  
       I love coding, solving real-world problems, and contributing to open source.
       <ul>
         <li>💼 **Currently working at Impledge Technologies**</li>
