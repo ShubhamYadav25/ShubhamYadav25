@@ -2,15 +2,20 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">🚀 Software Engineer | Backend Developer | Cloud Enthusiast</h2>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
-
-
-I am passionate about designing **scalable systems, cloud computing, and distributed applications**. I love coding, solving real-world problems, and contributing to open source.
-
-- 💼 **Currently working at Impledge Technologies**
-- 🎓 **B.Tech in Computer Science & Engineering**
-- 💡 **Exploring Microservices, System Design, and Kubernetes**
-- ✨ **Always learning and building new things!**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="flex: 1; padding-right: 20px;">
+        <p>I am passionate about designing <strong>scalable systems, cloud computing, and distributed applications</strong>. I love coding, solving real-world problems, and contributing to open source.</p>
+        <ul>
+            <li>💼 <strong>Currently working at Impledge Technologies</strong></li>
+            <li>🎓 <strong>B.Tech in Computer Science & Engineering</strong></li>
+            <li>💡 <strong>Exploring Microservices, System Design, and Kubernetes</strong></li>
+            <li>✨ <strong>Always learning and building new things!</strong></li>
+        </ul>
+    </div>
+    <div style="flex: 1; text-align: right;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding GIF">
+    </div>
+</div>
 
 ---
 
