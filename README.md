@@ -8,10 +8,10 @@
       I am passionate about designing scalable systems, cloud computing, and distributed applications.  
       I love coding, solving real-world problems, and contributing to open source.
       <ul>
-        <li>💼 **Currently working at Impledge Technologies**</li>
-        <li>🎓 **B.Tech in Computer Science & Engineering**</li>
-        <li>💡 **Exploring Microservices, System Design, and Kubernetes**</li>
-        <li>✨ **Always learning and building new things!**</li>
+        <li>💼 Currently working at Impledge Technologies</li>
+        <li>🎓 B.Tech in Computer Science & Engineering</li>
+        <li>💡 Exploring Microservices, System Design, and Kubernetes</li>
+        <li>✨ Always learning and building new things!</li>
       </ul>
     </td>
     <td style="border: none; vertical-align: top;">
