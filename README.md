@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Serene Developer at Sunrise.png" width="100%" alt="Shubham Yadav - Full Stack Developer | AI Engineer">
+</p>
+
 ```text
 ╭──────────────────────────────────────────────────────────────────────────╮
 │                  Welcome to Shubham's Dev Terminal v1.0                  │
